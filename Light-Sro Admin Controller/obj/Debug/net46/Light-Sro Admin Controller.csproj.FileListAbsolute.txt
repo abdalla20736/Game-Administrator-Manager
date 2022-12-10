@@ -1,0 +1,10 @@
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light-Sro Admin Controller.csproj.AssemblyReference.cache
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light_Sro_Admin_Controller.DonateForm.resources
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light_Sro_Admin_Controller.Form1.resources
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light_Sro_Admin_Controller.Form2.resources
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light_Sro_Admin_Controller.Properties.Resources.resources
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light-Sro Admin Controller.csproj.GenerateResource.cache
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light-Sro Admin Controller.GeneratedMSBuildEditorConfig.editorconfig
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light-Sro Admin Controller.AssemblyInfoInputs.cache
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light-Sro Admin Controller.AssemblyInfo.cs
+E:\silkroadjob\4_550 geneh\Light-Sro Admin Controller\Light-Sro Admin Controller\obj\Debug\net46\Light-Sro Admin Controller.csproj.CoreCompileInputs.cache
